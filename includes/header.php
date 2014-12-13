@@ -5,6 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"><!-- Bootstrap css file -->
 	<link rel="stylesheet" type="text/css" href="css/style.css"><!-- Own css file -->
 	<link href='http://fonts.googleapis.com/css?family=Marcellus+SC' rel='stylesheet' type='text/css'><!-- Marcellus Google Font -->
+	<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'><!-- Roboto Google Font -->
 	<?php
 		if ( empty( $_GET )) {
 		    // no data passed by get, which means it's the Home page

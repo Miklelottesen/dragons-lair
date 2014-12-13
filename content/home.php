@@ -4,7 +4,7 @@
     <table>
       <tr>
         <td>
-          <h3>THUMB</h3>
+          <img class="round_event_image" src="./img/events/card-event-aarhus.png" alt="Card event in Aarhus" />
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>
@@ -17,7 +17,7 @@
     <table>
       <tr>
         <td>
-          <h3>THUMB</h3>
+          <img class="round_event_image"  src="./img/events/card-event-aarhus.png" alt="Card event in Aarhus" />
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>
@@ -30,7 +30,7 @@
     <table>
       <tr>
         <td>
-          <h3>THUMB</h3>
+          <img class="round_event_image"  src="./img/events/card-event-aarhus.png" alt="Card event in Aarhus" />
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>
@@ -43,7 +43,7 @@
     <table>
       <tr>
         <td>
-          <h3>THUMB</h3>
+          <img class="round_event_image"  src="./img/events/card-event-aarhus.png" alt="Card event in Aarhus" />
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>

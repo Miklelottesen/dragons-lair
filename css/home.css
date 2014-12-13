@@ -4,10 +4,51 @@ body {
 
 main {
 
-	background-color: #666;/* Background for full width of the content area */
+	background: url(../img/index_bg.png)  no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 #part-one {
 	display: inline-block; /* necessary to show background color */
-	background-color: #777;/* Background for the content itself */
+	background: url(../img/transparent-bg-content.png); /* Background for the content itself */
+
+}
+p,small {
+	color:#aaaaaa;
+}
+
+small {
+	color:#8b8b8b;
+}
+
+.round_event_image {
+	border-radius: 60px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	filter: gray; /* IE6-9 */
+	-webkit-filter: grayscale(70%);
+	transition: -webkit-filter 1s;
+}
+table:hover .round_event_image {
+	filter: none;
+	-webkit-filter: grayscale(0%);
+}
+
+table td {
+	background-color: transparent;
+	transition: background-color 0.5s;
+
+}
+
+table:hover td {
+	background-color:#000000;
+
+}
+
+
+td h3 {
+	margin-top: -10px;
 }

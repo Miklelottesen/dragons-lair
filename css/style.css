@@ -56,18 +56,37 @@ Header:
 }
 
 
+
 /**********
 Navigation:
 **********/
+
+
 
 .navbar-inverse {
 	background-color: #181818;
 	/* height: 66px; */
 }
+
+.navbar-inverse {
+	border-bottom: 6px solid #640a0a;
+	padding-bottom: 6px;
+
+}
+
+
+
 nav a {
 	font-family: 'Marcellus SC', serif;
 	letter-spacing: 0.1em;
+	color: #d7d7d7 !important;
+	border-top: 3px solid transparent;
 }
+nav a:hover {
+	border-top: 3px solid red;
+}
+
+
 
 
 /*******
@@ -77,6 +96,18 @@ Sidebar:
 /*******
 Content:
 *******/
+
+main h2,h3,h4 {
+	/* color: #eac220; */
+	color:#ac9228;
+	font-family: 'Marcellus SC', serif;
+}
+
+
+main h2 {
+	color: #eac220;
+	font-family: 'Marcellus SC', serif;
+
 
 /******
 Footer:
