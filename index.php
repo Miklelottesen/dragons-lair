@@ -37,6 +37,7 @@
 			</section>
 		</section>
 	</main>
+	<script src="js/fixMenu.js"></script>
 
 	<?php 
 		include 'includes/footer.php'; 

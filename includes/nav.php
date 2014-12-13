@@ -19,22 +19,22 @@
       <section class="menu-main-container">
         <ul class="menu nav navbar-nav" role="menu">
           <li><a <?php setActive('home') ?> href="./">Home</a></li>
-          <li><a <?php setActive('news') ?> href="#">News</a></li>
+          <li><a <?php setActive('news') ?> href="./?page_id=news">News</a></li>
           <li class="dropdown">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" area-expanded="false">Events</a>
+            <a href="./?page_id=events" class="dropdown-toggle" data-toggle="dropdown" role="button" area-expanded="false">Events</a>
             <ul class="sub-menu dropdown-menu" role="menu">
-              <li><a <?php setActive('events-board') ?> href="#">Board Games</a></li>
-              <li><a <?php setActive('events-cards') ?> href="#">Card Games</a></li>
-              <li><a <?php setActive('events-figurine') ?> href="#">Figurine Painting</a></li>
-              <li><a <?php setActive('events-hardball') ?> href="#">Hardball</a></li>
-              <li><a <?php setActive('events-role') ?> href="#">Live Role-play</a></li>
-              <li><a <?php setActive('events-table') ?> href="#">Tabletop Games</a></li>
-              <li><a <?php setActive('events-workshop') ?> href="#">Workshop</a></li>
+              <li><a <?php setActive('events-board') ?> href="./?page_id=events-test">Board Games</a></li>
+              <li><a <?php setActive('events-cards') ?> href="./?page_id=events-test">Card Games</a></li>
+              <li><a <?php setActive('events-figurine') ?> href="./?page_id=events-test">Figurine Painting</a></li>
+              <li><a <?php setActive('events-hardball') ?> href="./?page_id=events-test">Hardball</a></li>
+              <li><a <?php setActive('events-role') ?> href="./?page_id=events-test">Live Role-play</a></li>
+              <li><a <?php setActive('events-table') ?> href="./?page_id=events-test">Tabletop Games</a></li>
+              <li><a <?php setActive('events-workshop') ?> href="./?page_id=events-test">Workshop</a></li>
             </ul>
           </li>
-          <li><a <?php setActive('gallery') ?> href="#">Gallery</a></li>
-          <li><a <?php setActive('articles') ?> href="#">Articles</a></li>
-          <li><a <?php setActive('rankings') ?> href="#">Rankings</a></li>
+          <li><a <?php setActive('gallery') ?> href="./?page_id=gallery">Gallery</a></li>
+          <li><a <?php setActive('articles') ?> href="./?page_id=articles">Articles</a></li>
+          <li><a <?php setActive('rankings') ?> href="./?page_id=rankings">Rankings</a></li>
         </ul>
       </section>
       <!-- Search field: -->
