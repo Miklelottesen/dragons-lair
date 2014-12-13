@@ -1,4 +1,23 @@
 <?php 
+	global $page_id;
+	global $page_url;
+
+	function setActive( $this_id){
+		global $page_id;
+		global $page_url;
+		if ( $page_id === $this_id){
+			echo 'id="active-link"';
+		}
+	}
+
+	if ( isset( $_GET['page_id'])){
+		$page_id = $_GET['page_id'];
+	} else {
+		$page_id = 'home';
+	} // Set page_id from get, defaults to 'home'
+
+	$page_url = 'content/'.$page_id.'.php';
+		// Construct URL of the content file to get
 	include 'includes/header.php';
 	// Get the header
 ?> 
@@ -10,15 +29,6 @@
 				include 'includes/sidebar.php'; 
 				// Display sidebar on any other page than Home or Post view (which has no page_id)
 			}
-
-			if ( isset( $_GET['page_id'])){
-				$page_id = $_GET['page_id'];
-			} else {
-				$page_id = 'home';
-			} // Set page_id from get, defaults to 'home'
-
-			$page_url = 'content/'.$page_id.'.php';
-				// Construct URL of the content file to get
 		?>
 	
 			<section id="content" class="col-xs-12">

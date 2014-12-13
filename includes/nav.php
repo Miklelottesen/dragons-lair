@@ -18,23 +18,23 @@
       <!-- Get Wordpress links (generates its own list): -->  
       <section class="menu-main-container">
         <ul class="menu nav navbar-nav" role="menu">
-          <li><a href="./">Home</a></li>
-          <li><a href="#">News</a></li>
+          <li><a <?php setActive('home') ?> href="./">Home</a></li>
+          <li><a <?php setActive('news') ?> href="#">News</a></li>
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" area-expanded="false">Events</a>
             <ul class="sub-menu dropdown-menu" role="menu">
-              <li><a href="#">Board Games</a></li>
-              <li><a href="#">Card Games</a></li>
-              <li><a href="#">Figurine Painting</a></li>
-              <li><a href="#">Hardball</a></li>
-              <li><a href="#">Live Role-play</a></li>
-              <li><a href="#">Tabletop Games</a></li>
-              <li><a href="#">Workshop</a></li>
+              <li><a <?php setActive('events-board') ?> href="#">Board Games</a></li>
+              <li><a <?php setActive('events-cards') ?> href="#">Card Games</a></li>
+              <li><a <?php setActive('events-figurine') ?> href="#">Figurine Painting</a></li>
+              <li><a <?php setActive('events-hardball') ?> href="#">Hardball</a></li>
+              <li><a <?php setActive('events-role') ?> href="#">Live Role-play</a></li>
+              <li><a <?php setActive('events-table') ?> href="#">Tabletop Games</a></li>
+              <li><a <?php setActive('events-workshop') ?> href="#">Workshop</a></li>
             </ul>
           </li>
-          <li><a href="#">Gallery</a></li>
-          <li><a href="#">Articles</a></li>
-          <li><a href="#">Rankings</a></li>
+          <li><a <?php setActive('gallery') ?> href="#">Gallery</a></li>
+          <li><a <?php setActive('articles') ?> href="#">Articles</a></li>
+          <li><a <?php setActive('rankings') ?> href="#">Rankings</a></li>
         </ul>
       </section>
       <!-- Script to add Bootstrap classes to WP generated list: -->  
