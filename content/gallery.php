@@ -29,3 +29,13 @@
         <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
 </section> <!-- Carousel -->
+
+<div id="mygallery" >
+  <a href="path/to/myimage1_original.jpg">
+    <img alt="Title 1" src="path/to/myimage1_t.jpg"/>
+  </a>
+  <a href="path/to/myimage2_original.jpg">
+    <img alt="Title 2" src="path/to/myimage2_t.jpg"/>
+  </a>
+  <!-- other images... -->
+</div>
