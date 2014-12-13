@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dragonslair
 ===========
 
@@ -43,3 +44,9 @@ If you made an entire file by yourself, write a comment on the very first line s
 Put stuff into the appropriate folders (refer to the coding conventions). If you deem it necessary to create additional sub-folders, make sure to write it in the summary before you commit!
 
 If you create any folders, MAKE SURE THEY HAVE AT LEAST ONE FILE IN THEM (an empty delete.me file can be used as a dummy) - otherwise the folder won't show in the project.
+=======
+dragons-lair
+============
+
+Dragons Lair Community Hub (project 2.2)
+>>>>>>> origin/master
