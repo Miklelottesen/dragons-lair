@@ -10,11 +10,20 @@
 				include 'includes/sidebar.php'; 
 				// Display sidebar on any other page than Home or Post view (which has no page_id)
 			}
+
+			if ( isset( $_GET['page_id'])){
+				$page_id = $_GET['page_id'];
+			} else {
+				$page_id = 'home';
+			} // Set page_id from get, defaults to 'home'
+
+			$page_url = 'content/'.$page_id.'.php';
+				// Construct URL of the content file to get
 		?>
 	
 			<section id="content" class="col-xs-12">
 				<!-- MAIN CONTENT AREA -->
-				<h2>Content area</h2>
+				<?php include $page_url; ?>
 			</section>
 		</section>
 	</main>

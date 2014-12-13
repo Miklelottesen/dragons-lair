@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"><!-- Bootstrap css file -->
 	<link rel="stylesheet" type="text/css" href="css/style.css"><!-- Own css file -->
 	<?php
-		if (empty($_GET)) {
+		if ( empty( $_GET )) {
 		    // no data passed by get, which means it's the Home page
 		    echo '<link id="home-css" rel="stylesheet" type="text/css" href="css/home.css">';
 		    	// Load custom CSS for Home page
