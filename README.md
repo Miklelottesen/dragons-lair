@@ -6,6 +6,25 @@ Exam project 2.2, business academy Aarhus
 
 ===========
 
+Naming conventions:
+
+All sections of the side are loaded to the index.php file using $_GET. The $page_id is equal to the filename that has the content for the section in question (minus .php). The page_id's are as follows:
+	Home page = 	'home'
+	News = 			'news'
+	Events = 		'events'
+	Gallery = 		'gallery'
+	Articles = 		'articles'
+	Rankings = 		'rankings'
+
+For the event sub-sections, following names are used:
+	Board Games = 		'events-board'
+	Card Games = 		'events-cards'
+	Figurine Events = 	'events-figurine'
+	Hardball = 			'events-hardball'
+	Live Role-play = 	'events-role'
+	Tabletop games = 	'events-table'
+	Workshop = 			'events-workshop'
+
 Guidelines: 
 
 Head of interaction (Mikkel) works on the project, like, all the time. So whenever you need to work on any of these files, or add new files, remember to go to the Github app and sync first!!!!

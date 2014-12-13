@@ -37,9 +37,6 @@
           <li><a <?php setActive('rankings') ?> href="#">Rankings</a></li>
         </ul>
       </section>
-      <!-- Script to add Bootstrap classes to WP generated list: -->  
-      <script src="js/fixmenu.js"></script> 
-
       <!-- Search field: -->
       <form class="navbar-form navbar-right" role="search">
         <section class="form-group">
