@@ -16,7 +16,7 @@
 
       <!-- Links: -->
       <!-- Get Wordpress links (generates its own list): -->  
-      <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
+      <p>Links here!!</p>
       <!-- Script to add Bootstrap classes to WP generated list: -->  
       <script src="js/fixmenu.js"></script> 
 

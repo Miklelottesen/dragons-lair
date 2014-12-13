@@ -22,7 +22,7 @@
 	<header>
 		<!-- Header: -->
 		<?php
-			include 'wp/wp-content/themes/dragonslair/nav.php'; 
+			include 'includes/nav.php'; 
 				// The navbar with logo and search field
 		?>
 	</header>

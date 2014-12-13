@@ -1,4 +1,3 @@
-<?php wp_footer(); ?>
 	<footer class="container-fluid">
 		<section id="footer-content" class="container">
 			<h3 class="col-xs-12">Footer area</h3>
