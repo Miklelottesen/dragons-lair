@@ -18,23 +18,23 @@
       <!-- Get Wordpress links (generates its own list): -->  
       <section class="menu-main-container">
         <ul class="menu nav navbar-nav" role="menu">
-          <li><a <?php setActive('home') ?> href="./">Home</a></li>
-          <li><a <?php setActive('news') ?> href="./?page_id=news">News</a></li>
+          <li><a class="nav-link" <?php setActive('home') ?> href="./">Home</a></li>
+          <li><a class="nav-link" <?php setActive('news') ?> href="./?page_id=news">News</a></li>
           <li class="dropdown">
             <a href="./?page_id=events" class="dropdown-toggle" data-toggle="dropdown" role="button" area-expanded="false">Events</a>
             <ul class="sub-menu dropdown-menu" role="menu">
-              <li><a <?php setActive('events-board') ?> href="./?page_id=events-test">Board Games</a></li>
-              <li><a <?php setActive('events-cards') ?> href="./?page_id=events-test">Card Games</a></li>
-              <li><a <?php setActive('events-figurine') ?> href="./?page_id=events-test">Figurine Painting</a></li>
-              <li><a <?php setActive('events-hardball') ?> href="./?page_id=events-test">Hardball</a></li>
-              <li><a <?php setActive('events-role') ?> href="./?page_id=events-test">Live Role-play</a></li>
-              <li><a <?php setActive('events-table') ?> href="./?page_id=events-test">Tabletop Games</a></li>
-              <li><a <?php setActive('events-workshop') ?> href="./?page_id=events-test">Workshop</a></li>
+              <li><a class="nav-link" <?php setActive('events-board') ?> href="./?page_id=events-test">Board Games</a></li>
+              <li><a class="nav-link" <?php setActive('events-cards') ?> href="./?page_id=events-test">Card Games</a></li>
+              <li><a class="nav-link" <?php setActive('events-figurine') ?> href="./?page_id=events-test">Figurine Painting</a></li>
+              <li><a class="nav-link" <?php setActive('events-hardball') ?> href="./?page_id=events-test">Hardball</a></li>
+              <li><a class="nav-link" <?php setActive('events-role') ?> href="./?page_id=events-test">Live Role-play</a></li>
+              <li><a class="nav-link" <?php setActive('events-table') ?> href="./?page_id=events-test">Tabletop Games</a></li>
+              <li><a class="nav-link" <?php setActive('events-workshop') ?> href="./?page_id=events-test">Workshop</a></li>
             </ul>
           </li>
-          <li><a <?php setActive('gallery') ?> href="./?page_id=gallery">Gallery</a></li>
-          <li><a <?php setActive('articles') ?> href="./?page_id=articles">Articles</a></li>
-          <li><a <?php setActive('rankings') ?> href="./?page_id=rankings">Rankings</a></li>
+          <li><a class="nav-link" <?php setActive('gallery') ?> href="./?page_id=gallery">Gallery</a></li>
+          <li><a class="nav-link" <?php setActive('articles') ?> href="./?page_id=articles">Articles</a></li>
+          <li><a class="nav-link" <?php setActive('rankings') ?> href="./?page_id=rankings">Rankings</a></li>
         </ul>
       </section>
       <!-- Search field: -->
