@@ -1,13 +1,9 @@
 body {
-	background-image: url('https://www.cs.purdue.edu/homes/dgleich/demos/worldofmusic/hires.jpg');
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-size: 100%;
-		/* Static background image, whitespace */
+
 }
 
 main {
-	margin-top: 400px; /* Height of static BG image */
+
 	background-color: #666;/* Background for full width of the content area */
 }
 

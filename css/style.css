@@ -49,8 +49,10 @@ Header:
 ******/
 
 .navbar-brand img{
-	width: 50px;
-	height: 48px;
+	width: 35px;
+	height: 33px;
+	position: relative;
+	top: -6px;
 }
 
 
@@ -60,10 +62,11 @@ Navigation:
 
 .navbar-inverse {
 	background-color: #181818;
-	height: 66px;
+	/* height: 66px; */
 }
 nav a {
 	font-family: 'Marcellus SC', serif;
+	letter-spacing: 0.1em;
 }
 
 
