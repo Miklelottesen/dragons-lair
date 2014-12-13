@@ -8,7 +8,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">LOGO</a>
+      <a class="navbar-brand" href="./"><img src="./img/dragonslair_logo.png" alt="DragonsLair Logo"></a>
     </section>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
