@@ -6,7 +6,7 @@
 		<section id="content-area" class="container">
 
 		<?php 
-			if ( !isset ( $_GET['no-bar'] ) ){
+			if ( !empty( $_GET )){
 				include 'includes/sidebar.php'; 
 				// Display sidebar on any other page than Home or Post view (which has no page_id)
 			}
