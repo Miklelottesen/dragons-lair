@@ -41,8 +41,8 @@
       <form class="navbar-form navbar-right" role="search">
         <section class="form-group">
           <input type="text" id="search-bar" class="form-control" placeholder="Search">
+          <button type="submit" id="search-button"></button>
         </section>
-        <button type="submit" id="search-button"></button>
       </form>
     </section><!-- /.navbar-collapse -->
   </section><!-- /.container-fluid -->
