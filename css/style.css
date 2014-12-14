@@ -83,9 +83,8 @@ nav a {
 	border-top: 3px solid transparent;
 }
 nav a.nav-link:hover {
-	border-top: 3px solid red;
+	border-top: 3px solid #9a2016;
 }
-
 
 
 
