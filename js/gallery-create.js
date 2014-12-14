@@ -17,7 +17,7 @@ $(document).ready(function(){
 			$('#mygallery').prepend('<a rel="'+i+'" class="thumb" id="'+elem[i]+'" href="./img/gallery/'+elem[i]+'"><img alt="Title 1" src="./img/gallery/'+elem[i]+'"/></a>')
 		}
 	});
-	$("#mygallery").justifiedGallery();
+/*	$("#mygallery").justifiedGallery();*/
 
 		//Event listeners:
 		$('.thumb').click(function(){
