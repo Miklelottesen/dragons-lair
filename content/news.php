@@ -5,60 +5,67 @@
 
 <div class="container">
     <div class="row clearfix">
-        <div class="col-md-1 col-md-offset-1">
+        <div class="col-md-2">
 
-            <h4>Categories</h4>
+          <h4>Categories</h4>
             <ul class="nav nav-pills nav-stacked" role="menu">
-                <p>Sidebar, YAAAAY!</p>
+                <li>lol</li>
             </ul>
         </div>
+    </div>
 
-        <div class="col-md-6 column">
-            <img alt="140x140" src="http://lorempixel.com/140/140/" />
-            <h3>
-                h3. Lorem ipsum dolor sit amet.
-            </h3>
-            <p>
-                Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
-            </p>
+    <div class="row clearfix">
+        <div class="col-md-8 column">
+            <figure>
+                <img alt="140x140" src="http://placehold.it/950x250" />
+                <figcaption>
+                    <h3>Heading H3 lol</h3>
+                    <span>More info yolo</span>
+                    <a href="#">Read More</a>
+                </figcaption>
+            </figure>
         </div>
         <div class="col-md-4 column">
-            <img alt="140x140" src="http://lorempixel.com/140/140/" />
-            <h3>
-                h3. Lorem ipsum dolor sit amet.
-            </h3>
-            <p>
-                Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
-            </p>
+            <figure>
+                <img alt="140x140" src="http://placehold.it/550x250" />
+                <figcaption>
+                    <h3>Heading H3 lol</h3>
+                    <span>More info yolo</span>
+                    <a href="#">Read More</a>
+                </figcaption>
+            </figure>
         </div>
     </div>
+
     <div class="row clearfix">
         <div class="col-md-4 column">
-            <img alt="140x140" src="http://lorempixel.com/140/140/" />
-            <h3>
-                h3. Lorem ipsum dolor sit amet.
-            </h3>
-            <p>
-                Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
-            </p>
+            <figure>
+                <img alt="140x140" src="http://placehold.it/550x250" />
+                <figcaption>
+                    <h3>Heading H3 lol</h3>
+                    <span>More info yolo</span>
+                    <a href="#">Read More</a>
+                </figcaption>
+            </figure>
         </div>
         <div class="col-md-4 column">
-            <img alt="140x140" src="http://lorempixel.com/140/140/" />
-            <h3>
-                h3. Lorem ipsum dolor sit amet.
-            </h3>
-            <p>
-                Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
-            </p>
+            <figure>
+                <img alt="140x140" src="http://placehold.it/550x250" />
+                <figcaption>
+                    <h3>Heading H3 lol</h3>
+                    <span>More info yolo</span>
+                    <a href="#">Read More</a>
+                </figcaption>
+            </figure>
         </div>
         <div class="col-md-4 column">
-            <img alt="140x140" src="http://lorempixel.com/140/140/" />
-            <h3>
-                h3. Lorem ipsum dolor sit amet.
-            </h3>
-            <p>
-                Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Aliquam eget sapien sapien. Curabitur in metus urna. In hac habitasse platea dictumst. Phasellus eu sem sapien, sed vestibulum velit. Nam purus nibh, lacinia non faucibus et, pharetra in dolor. Sed iaculis posuere diam ut cursus. <em>Morbi commodo sodales nisi id sodales. Proin consectetur, nisi id commodo imperdiet, metus nunc consequat lectus, id bibendum diam velit et dui.</em> Proin massa magna, vulputate nec bibendum nec, posuere nec lacus. <small>Aliquam mi erat, aliquam vel luctus eu, pharetra quis elit. Nulla euismod ultrices massa, et feugiat ipsum consequat eu.</small>
-            </p>
-        </div>
+            <figure>
+                <img alt="140x140" src="http://placehold.it/550x250" />
+                <figcaption>
+                    <h3>Heading H3 lol</h3>
+                    <span>More info yolo</span>
+                    <a href="#">Read More</a>
+                </figcaption>
+            </figure>
     </div>
 </div>

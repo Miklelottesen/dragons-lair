@@ -1,0 +1,60 @@
+
+
+figure {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    margin: 0;
+}
+
+
+figcaption h3 {
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+figcaption a {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 2px;
+    display: inline-block;
+    background: #ed4e6e;
+    color: #fff;
+    text-decoration: none;
+}
+figcaption {
+    padding: 20px 0px 20px 20px;
+    background: #2c3f52;
+    color: #ed4e6e;
+}
+
+
+
+
+/* - - - Cool part! - - - */
+
+figure img {
+    transition: transform 0.4s;
+}
+figure:hover img {
+    transform: translateY(-20px);
+}
+figcaption {
+    position: absolute;
+    bottom: -100px;
+    left: 0;
+    display: block;
+    height: 200px;
+    width: 100%;
+    transition: bottom 0.8s, opacity 1.2s;
+}
+
+figure:hover figcaption {
+    bottom: 5%;
+    transition: bottom 0.4s, opacity 0.3s;
+}
+
