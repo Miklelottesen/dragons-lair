@@ -4,16 +4,24 @@
 
 
 <div class="container">
-    <div class="row clearfix">
-        <div class="col-md-2">
+    <div class="row">
+        <div class="col-md-12 column">
+            <ul class="nav nav-pills">
+                <li class="active"><a href="#">All News</a></li>
 
-          <h4>Categories</h4>
-            <ul class="nav nav-pills nav-stacked" role="menu">
-                <li>lol</li>
+                <li><a href="#">Board Games</a></li>
+                <li><a href="#">Card Games</a></li>
+                <li><a href="#">Figurine Painting</a></li>
+                <li><a href="#">Hardball</a></li>
+                <li><a href="#">Live Role-play</a></li>
+                <li><a href="#">Tabletop Games</a></li>
+
+
             </ul>
         </div>
     </div>
-
+    </div>
+<hr>
     <div class="row">
         <div class="col-md-8 column">
             <figure>

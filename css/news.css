@@ -1,5 +1,5 @@
 
-
+/* - - - Using Jarne's hover-gallery, Praise the lawrd! - - - */
 figure {
     overflow: hidden;
     width: 100%;
@@ -32,20 +32,18 @@ figcaption a {
     padding: 5px 10px;
     border-radius: 2px;
     display: inline-block;
-    background: #ed4e6e;
+    background: #450a1b;
     color: #fff;
     text-decoration: none;
 }
+figcaption a:hover {
+    color: #fff;
+}
 figcaption {
     padding: 20px 0px 20px 20px;
-    background: #2c3f52;
+    background: #000;
     color: #666;
 }
-
-
-
-
-/* - - - Cool part! - - - */
 
 figure img {
     transition: transform 0.4s;
@@ -68,3 +66,9 @@ figure:hover figcaption {
     transition: bottom 0.4s, opacity 0.3s;
 }
 
+/* - - - Category list styling - - - */
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+    color: black;
+    background-color: #DADADA;
+}
