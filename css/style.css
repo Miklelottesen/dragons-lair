@@ -6,39 +6,39 @@ Own styling begins here:
 Searchbar:
 *********/
 input[type="text"] {
-    background: #444;
-    border: 0 none;
-    font: bold 12px Arial,Helvetica,Sans-serif;
-    color: #d7d7d7;
-    width:50px;
-    padding: 6px 15px 6px 35px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
-    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3);
-    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
-    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
-    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+    background: #444 !important;
+    border: 0 none !important;
+    font: bold 12px Arial,Helvetica,Sans-serif !important;
+    color: #d7d7d7 !important;
+    width:50px !important;
+    padding: 6px 15px 6px 35px !important;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    border-radius: 20px !important;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3) !important;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset !important;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset !important;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset !important;
     margin:3px 12px;
 }
 
 input[type="text"]:focus {
-    background:#fcfcfc;
-    color: #6a6f75;
-    width: 120px;
-    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
-    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
-    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
-    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-    margin:3px 12px;
-    outline: none;
+    background:#fcfcfc !important;
+    color: #6a6f75 !important;
+    width: 120px !important;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset !important;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset !important;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset !important;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1) !important;
+    margin:3px 12px !important;
+    outline: none !important;
 }
 
 input[type="text"] {
-    -webkit-transition: all 0.7s ease 0s;
-    -moz-transition: all 0.7s ease 0s;
-    -o-transition: all 0.7s ease 0s;
-    transition: all 0.7s ease 0s;
+    -webkit-transition: all 0.7s ease 0s !important;
+    -moz-transition: all 0.7s ease 0s !important;
+    -o-transition: all 0.7s ease 0s !important;
+    transition: all 0.7s ease 0s !important;
 }
 
 /*******
