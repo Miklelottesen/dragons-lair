@@ -40,10 +40,11 @@
       <!-- Search field: -->
       <form class="navbar-form navbar-right" role="search">
         <section class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
+          <input type="text" id="search-bar" class="form-control" placeholder="Search">
         </section>
-        <button type="submit" id="search-button"><img alt="Search" src="img/search.png" /></button>
+        <button type="submit" id="search-button"></button>
       </form>
     </section><!-- /.navbar-collapse -->
   </section><!-- /.container-fluid -->
 </nav>
+<script src="js/search-click.js"></script>
