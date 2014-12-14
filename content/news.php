@@ -23,7 +23,7 @@
     <div class="row">
         <div class="col-md-8 column">
             <figure>
-                <img alt="140x140" src="./img/news/lol-nice.jpg" />
+                <img alt="Dragons Lair Aarhus card event" src="./img/news/lol-nice.jpg" />
                 <figcaption>
                     <h3>Denmark Shocks the world of Magic</h3>
                     <h4>Denmark wins the World Magic Cup</h4>
@@ -36,7 +36,7 @@
         </div>
         <div class="col-md-4 column">
             <figure>
-                <img alt="140x140" src="http://placehold.it/550x250" />
+                <img alt="New masks arrival" src="./img/news/new-masks-arrival.jpg" />
                 <figcaption>
                     <h3>Heading H3 lol</h3>
                     <h4>Sub-heading madness hover on ME!!!</h4>
