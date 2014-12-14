@@ -57,7 +57,7 @@
 </section>
 <section class="col-sm-12 col-md-6">
     <h2>Featured</h2>
-    <img style="width:100%;height:200px" src="https://36.media.tumblr.com/0a4be6039f37db4e0f1ec6c097c8993c/tumblr_mipvn07eWE1qzfsnio1_500.jpg" />
+    <img id="featured-image" src="https://36.media.tumblr.com/0a4be6039f37db4e0f1ec6c097c8993c/tumblr_mipvn07eWE1qzfsnio1_500.jpg" />
     <h3>How to make fantasy armour</h3>
     <small>August 26, <a href="#">Tutorials</a></small>
     <p>How to make fantasy armour if you're looking for the shortest path route to making armour, then the very first thing you should do is grab a copy of this fantastic book by Brian Price, I highly recommend it:</p>

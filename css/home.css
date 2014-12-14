@@ -11,6 +11,12 @@ main {
 	background-size: cover;
 }
 
+#featured-image {
+	max-height: 200px;
+	width: 100%;
+	height: auto;
+}
+
 #part-one {
 	padding: 5px 10px 15px 10px;
 display: inline-block; /* necessary to show background color */
