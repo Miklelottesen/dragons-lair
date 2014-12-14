@@ -23,13 +23,13 @@
           <li class="dropdown">
             <a  class="nav-link dropdown-toggle" href="./?page_id=events" data-toggle="dropdown" role="button" area-expanded="false">Events</a>
             <ul class="sub-menu dropdown-menu" role="menu">
-              <li><a <?php setActive('events-board') ?> href="./?page_id=events-test">Board Games</a></li>
-              <li><a <?php setActive('events-cards') ?> href="./?page_id=events-test">Card Games</a></li>
-              <li><a <?php setActive('events-figurine') ?> href="./?page_id=events-test">Figurine Painting</a></li>
-              <li><a <?php setActive('events-hardball') ?> href="./?page_id=events-test">Hardball</a></li>
-              <li><a <?php setActive('events-role') ?> href="./?page_id=events-test">Live Role-play</a></li>
-              <li><a <?php setActive('events-table') ?> href="./?page_id=events-test">Tabletop Games</a></li>
-              <li><a <?php setActive('events-workshop') ?> href="./?page_id=events-test">Workshop</a></li>
+              <li><a <?php setActive('events-board') ?> href="./?page_id=events">Board Games</a></li>
+              <li><a <?php setActive('events-cards') ?> href="./?page_id=events">Card Games</a></li>
+              <li><a <?php setActive('events-figurine') ?> href="./?page_id=events">Figurine Painting</a></li>
+              <li><a <?php setActive('events-hardball') ?> href="./?page_id=events">Hardball</a></li>
+              <li><a <?php setActive('events-role') ?> href="./?page_id=events">Live Role-play</a></li>
+              <li><a <?php setActive('events-table') ?> href="./?page_id=events">Tabletop Games</a></li>
+              <li><a <?php setActive('events-workshop') ?> href="./?page_id=events">Workshop</a></li>
             </ul>
           </li>
           <li><a class="nav-link" <?php setActive('gallery') ?> href="./?page_id=gallery">Gallery</a></li>
