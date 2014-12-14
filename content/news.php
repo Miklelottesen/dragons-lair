@@ -1,7 +1,19 @@
 <hr id="red-nav-line" />
+
+
+
+
 <div class="container">
     <div class="row clearfix">
-        <div class="col-md-8 column">
+        <div class="col-md-1 col-md-offset-1">
+
+            <h4>Categories</h4>
+            <ul class="nav nav-pills nav-stacked" role="menu">
+                <p>Sidebar, YAAAAY!</p>
+            </ul>
+        </div>
+
+        <div class="col-md-6 column">
             <img alt="140x140" src="http://lorempixel.com/140/140/" />
             <h3>
                 h3. Lorem ipsum dolor sit amet.
