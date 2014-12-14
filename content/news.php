@@ -14,12 +14,13 @@
         </div>
     </div>
 
-    <div class="row clearfix">
+    <div class="row">
         <div class="col-md-8 column">
             <figure>
                 <img alt="140x140" src="http://placehold.it/950x250" />
                 <figcaption>
                     <h3>Heading H3 lol</h3>
+                    <h4>Sub-heading madness hover on ME!!!</h4>
                     <span>More info yolo</span>
                     <a href="#">Read More</a>
                 </figcaption>
@@ -30,19 +31,21 @@
                 <img alt="140x140" src="http://placehold.it/550x250" />
                 <figcaption>
                     <h3>Heading H3 lol</h3>
+                    <h4>Sub-heading madness hover on ME!!!</h4>
                     <span>More info yolo</span>
                     <a href="#">Read More</a>
                 </figcaption>
             </figure>
         </div>
     </div>
-
-    <div class="row clearfix">
+<hr>
+    <div class="row">
         <div class="col-md-4 column">
             <figure>
                 <img alt="140x140" src="http://placehold.it/550x250" />
                 <figcaption>
                     <h3>Heading H3 lol</h3>
+                    <h4>Sub-heading madness hover on ME!!!</h4>
                     <span>More info yolo</span>
                     <a href="#">Read More</a>
                 </figcaption>
@@ -53,6 +56,7 @@
                 <img alt="140x140" src="http://placehold.it/550x250" />
                 <figcaption>
                     <h3>Heading H3 lol</h3>
+                    <h4>Sub-heading madness hover on ME!!!</h4>
                     <span>More info yolo</span>
                     <a href="#">Read More</a>
                 </figcaption>
@@ -63,6 +67,7 @@
                 <img alt="140x140" src="http://placehold.it/550x250" />
                 <figcaption>
                     <h3>Heading H3 lol</h3>
+                    <h4>Sub-heading madness hover on ME!!!</h4>
                     <span>More info yolo</span>
                     <a href="#">Read More</a>
                 </figcaption>

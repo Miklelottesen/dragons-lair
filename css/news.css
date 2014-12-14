@@ -10,10 +10,20 @@ figure {
 
 
 figcaption h3 {
+    font-family: Roboto;
     margin: 0;
     padding: 0;
     color: #fff;
 }
+
+figcaption h4 {
+    font-family: Roboto;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    color: #999;
+}
+
 figcaption a {
     position: absolute;
     bottom: 20px;
@@ -29,7 +39,7 @@ figcaption a {
 figcaption {
     padding: 20px 0px 20px 20px;
     background: #2c3f52;
-    color: #ed4e6e;
+    color: #666;
 }
 
 
@@ -45,7 +55,7 @@ figure:hover img {
 }
 figcaption {
     position: absolute;
-    bottom: -100px;
+    bottom: -120px;
     left: 0;
     display: block;
     height: 200px;
