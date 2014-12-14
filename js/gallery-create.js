@@ -9,10 +9,14 @@ $(document).ready(function(){
   	$('#showpic').css("display","none");
   	$('#black').css("opacity","0");
   	$('#showpic').css("opacity","0");
-  	$.getJSON('gallery/getfiles.php', function(elem) {
+  	$.getJSON('./php/getfiles.php', function(elem) {
+  		var fileList = [];
+  		fileList = elem;
    		for(var i = 0; i < elem.length; ++i){
-			$('#mygallery').prepend('<a rel="'+i+'" class="thumb" id="'+elem[i]+'" href="img/testgal/'+elem[i]+'"><img alt="Title 1" src="img/testgal/thumbs/'+elem[i]+'"/></a>')
+   			console.log(fileList);
+			$('#mygallery').prepend('<a rel="'+i+'" class="thumb" id="'+elem[i]+'" href="./img/gallery/'+elem[i]+'"><img alt="Title 1" src="./img/gallery/'+elem[i]+'"/></a>')
 		}
+	});
 		$("#mygallery").justifiedGallery();
 
 		//Event listeners:
@@ -73,51 +77,6 @@ $(document).ready(function(){
 		function showFull(obj,imgID){
 			obj = obj;
 			imgID = imgID;
-			var videoFile;
-			var videoMatch = false;
-   						}
-   					}
-   					if(videoMatch == true){
-   						videoMatch = false;
-   							$('#videoPlayer').css('display','block');
-   							$('#fullimg').css('display','none');
-   							path = btoa('img/testgal/vid/'+videoFile);
-							console.log(path);
-							if($('#black').css('display') == 'none'){
-								$('#videoPlayer').load('gallery/playvid.php?path='+path);
-								$('#black').css('display','block');
-								$('#showpic').css('display','block');
-								$('#black').animate({opacity: 0.7},200);
-								$('#showpic').animate({opacity: 1},200);
-							} else {
-								path = btoa('img/testgal/vid/'+videoFile);
-								if(isVideo == true){
-									$('#videoPlayer').animate({opacity: 0},200);
-								} else {
-									$('#fullimg').animate({opacity: 0},200);
-								}											
-								setTimeout(function(){
-									$('#videoPlayer').load('gallery/playvid.php?path='+path);
-									$('#videoPlayer').animate({opacity: 1},200);
-								},200);
-								
-								
-							}
-							isVideo = true;
-							$('#videoPlayer').attr('rel',vidID);
-							currentID = imgID;
-							if(currentID == 0){
-								$('#arrowNext').css('display','none');
-							} else {
-								$('#arrowNext').css('display','inline-block');
-								console.log(currentID+obj.length);
-							}
-							if(currentID == obj.length - 1){
-								$('#arrowPrev').css('display','none');
-							} else {
-								$('#arrowPrev').css('display','inline-block');
-							}
-   					} else { //Clicked thumb is not a video
    							$('#videoPlayer').css('display','none');
    							$('#fullimg').css('display','block');
    							path = './img/gallery/'+obj;
@@ -154,9 +113,9 @@ $(document).ready(function(){
 							} else {
 								$('#arrowPrev').css('display','inline-block');
 							}
-   						}
+
    					
-			});
+
 		}
-	});
+	
 });

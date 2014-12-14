@@ -1,5 +1,5 @@
 <?php
-$dir          = "img/gallery/";
+$dir          = "../img/gallery/";
 $return_array = array();
 
 if(is_dir($dir)){
@@ -14,7 +14,6 @@ if(is_dir($dir)){
             }
         }
     }
-
     echo json_encode($return_array);
 }
 ?>

@@ -1,5 +1,3 @@
-
-
 <section id="mygallery" >
 </section>
-<script src="js/gallery-make.js"></script>
+<script src="./js/gallery-create.js"></script>
