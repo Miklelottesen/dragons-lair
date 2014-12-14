@@ -89,6 +89,14 @@ Header:
 	top: -6px;
 }
 
+header {
+    font-size: 1.2em;
+}
+
+header li a {
+    padding-top: 20px !important;
+}
+
 
 
 /**********
