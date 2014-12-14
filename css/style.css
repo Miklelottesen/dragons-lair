@@ -116,16 +116,25 @@ Navigation:
 
 }
 
+.navbar-inverse {
+    padding-bottom: 0px !important;
+}
 
+.navbar-nav, .navbar-nav li, .navbar-nav a {
+    height: 61px !important;
+}
 
 nav a {
 	font-family: 'Marcellus SC', serif;
 	letter-spacing: 0.1em;
 	color: #d7d7d7 !important;
 	border-top: 3px solid transparent;
+    margin-bottom: 0 !important;
+
 }
 nav a.nav-link:hover {
 	border-top: 3px solid #9a2016;
+    background-color: #1b1b1b !important;
 }
 
 
