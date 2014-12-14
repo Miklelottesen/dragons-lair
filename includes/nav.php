@@ -40,9 +40,8 @@
       <!-- Search field: -->
       <form class="navbar-form navbar-right" role="search">
         <section class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
+          <input type="text" placeholder="search bar" class="glyphicon glyphicon-align-left">
         </section>
-        <button type="submit" class="btn btn-default">Submit</button>
       </form>
     </section><!-- /.navbar-collapse -->
   </section><!-- /.container-fluid -->
