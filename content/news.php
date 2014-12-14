@@ -6,22 +6,18 @@
 <aside class="container">
     <section class="row">
         <section class="col-md-12 column">
-            <section class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav nav-pills">
                 <li class="active"><a href="#">All News</a></li>
-
                 <li><a href="#">Board Games</a></li>
                 <li><a href="#">Card Games</a></li>
                 <li><a href="#">Figurine Painting</a></li>
                 <li><a href="#">Hardball</a></li>
                 <li><a href="#">Live Role-play</a></li>
                 <li><a href="#">Tabletop Games</a></li>
-
-
             </ul>
         </section>
-            </section>
     </section>
+
 
 <hr>
     <div class="row">
