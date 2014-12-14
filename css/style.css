@@ -9,23 +9,24 @@ input[type="text"] {
     background: #444 !important;
     border: 0 none !important;
     font: bold 12px Arial,Helvetica,Sans-serif !important;
-    color: #d7d7d7 !important;
-    width:50px !important;
-    padding: 6px 15px 6px 35px !important;
-    -webkit-border-radius: 20px !important;
-    -moz-border-radius: 20px !important;
-    border-radius: 20px !important;
+    color: transparent !important;
+    width:45px !important;
+    padding: 6px 15px 6px 30px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    border-radius: 10px !important;
     text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3) !important;
     -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset !important;
     -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset !important;
     box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset !important;
-    margin:3px 12px;
+    margin:3px 10px;
 }
 
 input[type="text"]:focus {
     background:#fcfcfc !important;
     color: #6a6f75 !important;
-    width: 120px !important;
+    width: 180px !important;
+    padding: 6px 15px 6px 15px !important;
     -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset !important;
     -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset !important;
     box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset !important;
