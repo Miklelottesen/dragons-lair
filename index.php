@@ -21,7 +21,7 @@
 	include 'includes/header.php';
 	// Get the header
 
-print'<hr id="red-nav-line" />';
+
 	if ( empty( $_GET )){
 		include './includes/carousel.php';
 	// Display Bootstrap Carousel on any other page than Home or Post view (which has no page_id)
