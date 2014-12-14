@@ -3,9 +3,10 @@
 
 
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-12 column">
+<aside class="container">
+    <section class="row">
+        <section class="col-md-12 column">
+            <section class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav nav-pills">
                 <li class="active"><a href="#">All News</a></li>
 
@@ -18,9 +19,10 @@
 
 
             </ul>
-        </div>
-    </div>
-    </div>
+        </section>
+            </section>
+    </section>
+
 <hr>
     <div class="row">
         <div class="col-md-8 column">
@@ -81,4 +83,4 @@
                 </figcaption>
             </figure>
     </div>
-</div>
+</aside>
