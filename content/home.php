@@ -53,7 +53,7 @@
         </td>
       </tr>
     </table>
-    <button>More Events</button>
+    <button class="btn-more">More Events</button>
 </section>
 <section class="col-sm-12 col-md-6">
     <h2>Featured</h2>
@@ -85,7 +85,7 @@
         </td>
       </tr>
     </table>
-    <button>More Articles</button>
+    <button class="btn-more">More Articles</button>
 </section>
 </section>
 <h2>Gallery</h2>
