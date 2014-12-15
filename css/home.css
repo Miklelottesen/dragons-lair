@@ -25,11 +25,15 @@ small a {
 }
 
 
-#part-one {
+#part-one, #part-two {
 	padding: 5px 10px 15px 10px;
 	display: inline-block; /* necessary to show background color */
 	background: url(../img/transparent-bg-content.png); /* Background for the content itself */
 
+}
+
+#part-one > section {
+	height: 100%;
 }
 p,small {
 	color:#aaaaaa;
