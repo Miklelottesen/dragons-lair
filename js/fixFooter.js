@@ -11,8 +11,8 @@ function fixFooter() {
 	}
 }
 
-// The function is executed on document.ready
 $(document).ready(function(){
+	// The function is executed on document.ready
 	fixFooter();
 	setTimeout(function(){
 		// Necessary on some pages, for some reason
@@ -20,7 +20,7 @@ $(document).ready(function(){
 	},1);
 });
 
-// And also executed on window.resize
 $(window).resize(function(){
+	// Also executed on window.resize
 	fixFooter();
 });

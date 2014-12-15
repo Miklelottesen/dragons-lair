@@ -9,7 +9,7 @@ if ( $('#home-css').length === 0 ){
 $('.dropdown-toggle').click(function(){
 	var aLocation = $(this).attr( 'href' ); // Store link destinaion as variable
 	if ( $(".navbar-toggle").css( 'display' ) === 'none' ){
-		// Only enable navigation on desktop version (when the menu button is hidden)
+		// Only enable navigation on desktop version (when the menu button, .navbar-toggle, is hidden)
 		window.location.href = aLocation;
 	}
 });
