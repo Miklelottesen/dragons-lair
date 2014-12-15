@@ -28,7 +28,7 @@
                     <br>
                     <span>This weekend the 2014 World Magic Cup concluded with an epic victory by underdog Denmark over Greece. The Danish Magic team shocked the world of Magic with their win..
                     In this battle, team Denmark was represented by Lars Birch, Simon Nielsen, Martin Muller and Thomas Enevoldsen, which names are now engraved on the world cup trophy. </span>
-                    <a href="#">Read More</a>
+                    <a href="?page_id=news-article">Read More</a>
                 </figcaption></figure>
         </div>
 
