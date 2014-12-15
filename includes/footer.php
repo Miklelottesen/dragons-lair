@@ -1,6 +1,7 @@
 	<footer class="container-fluid">
 		<section id="footer-content" class="container">
-			<h3 class="col-xs-12">Footer area</h3>
+			<p class="col-sm-6">Copyright 2014</p>
+			<p class="col-sm-6 text-right">Dragons Lair</p>
 		</section>
 	</footer>
 	<script src="js/fixFooter.js"></script>

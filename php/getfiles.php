@@ -11,8 +11,8 @@ store the list as a JSON array
 	    if($dh = opendir($dir)){
 	        while(($file = readdir($dh)) != false){
 	
-	            if($file == "." or $file == ".."){
-	
+	            if($file === "." or $file === ".." or $file === "thumbs"){
+					// Do nothing
 	            } else {
 	                $return_array[] = $file; // Add the file to the array
 	            }

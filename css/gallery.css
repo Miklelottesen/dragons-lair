@@ -1,0 +1,7 @@
+.thumb-container {
+	width: 300px !important;
+	height: 200px !important;
+	overflow: hidden;
+	display: inline-block;
+	margin: 10px;
+}

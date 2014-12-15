@@ -26,6 +26,9 @@
 		if( $page_id == "guides"){
 			echo '<link id="guides-css" rel="stylesheet" type="text/css" href="./css/guides.css">';
 			}	// Load custom CSS for guides page
+		if( $page_id == "gallery"){
+			echo '<link id="guides-css" rel="stylesheet" type="text/css" href="./css/gallery.css">';
+			}	// Load custom CSS for gallery page
 
 	?>
 	<link rel="shortcut icon" href="./favicons/favicon.ico" type="image/x-icon" />

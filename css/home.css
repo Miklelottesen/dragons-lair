@@ -17,6 +17,7 @@ main {
 
 #carousel-generic h3 {
 	font-size: 40px;
+	-webkit-text-stroke: 1px black;
 }
 
 small a {
