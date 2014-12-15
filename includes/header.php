@@ -24,6 +24,12 @@
 		if( $page_id == "events"){
 			echo '<link id="events-css" rel="stylesheet" type="text/css" href="./css/events.css">';
 			}	// Load custom CSS for News page
+		if( $page_id == "rankings"){
+			echo '<link id="rankings-css" rel="stylesheet" type="text/css" href="./css/rankings.css">';
+			}	// Load custom CSS for rankings page
+		if( $page_id == "guides"){
+			echo '<link id="guides-css" rel="stylesheet" type="text/css" href="./css/guides.css">';
+			}	// Load custom CSS for rankings page
 
 	?>
 	<link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
