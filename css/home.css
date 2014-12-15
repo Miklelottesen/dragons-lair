@@ -50,6 +50,8 @@ small {
 	filter: gray; /* IE6-9 */
 	-webkit-filter: grayscale(70%);
 	transition: -webkit-filter 1s;
+	height: 123px;
+	width: 123px;
 }
 table:hover .round_event_image {
 	filter: none;
