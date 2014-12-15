@@ -17,10 +17,13 @@
 			echo '<link id="home-css" rel="stylesheet" type="text/css" href="css/home.css">';
 			// Load custom CSS for Home page
 		}
-			 if( $page_id == "news"){
-				echo '<link id="news-css" rel="stylesheet" type="text/css" href="./css/news.css">';
+		 if( $page_id == "news"){
+			echo '<link id="news-css" rel="stylesheet" type="text/css" href="./css/news.css">';
 			}
 				// Load custom CSS for News page
+		if( $page_id == "events"){
+			echo '<link id="events-css" rel="stylesheet" type="text/css" href="./css/events.css">';
+			}	// Load custom CSS for News page
 
 	?>
 	<link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />

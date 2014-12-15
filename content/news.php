@@ -38,8 +38,8 @@
             <figure>
                 <img alt="New masks arrival" src="./img/news/new-masks-arrival.jpg" />
                 <figcaption>
-                    <h3>Heading H3 lol</h3>
-                    <h4>Sub-heading madness hover on ME!!!</h4>
+                    <h3>New Masks arrival!</h3>
+                    <h4>Now we can offer even more masks</h4>
                     <span>More info yolo</span>
                     <a href="#">Read More</a>
                 </figcaption>
