@@ -1,0 +1,19 @@
+/* - - - Category list styling - - - */
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+    color: black;
+    background-color: #DADADA;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: grey;
+    transition: background-color 0.8s;
+
+}
+.nav>li>a:hover {
+    position: relative;
+    display: block;
+    padding: 10px 15px;

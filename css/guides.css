@@ -1,0 +1,91 @@
+
+/* - - - Using Jarne's hover-gallery, Praise the lawrd! - - - */
+figure {
+    overflow: hidden;
+    width: 100%;
+    max-height: 250px;
+    position: relative;
+    margin: 0;
+}
+
+
+figcaption h3 {
+    font-family: Roboto;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+figcaption h4 {
+    font-family: Roboto;
+    font-size: 1.2em;
+    margin: 0;
+    padding: 0;
+    color: #999;
+}
+
+figcaption a {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 2px;
+    display: inline-block;
+    background: #450a1b;
+    color: #fff;
+    text-decoration: none;
+}
+figcaption a:hover {
+    color: #fff;
+}
+figcaption {
+    padding: 20px 0px 20px 20px;
+    background: #000;
+    color: #9f9f9f;
+}
+
+figure img {
+    transition: transform 0.4s;
+}
+figure:hover img {
+    transform: translateY(-20px);
+}
+figcaption {
+    position: absolute;
+    bottom: -120px;
+    left: 0;
+    display: block;
+    height: 200px;
+    width: 100%;
+    transition: bottom 0.8s, opacity 1.2s;
+}
+
+figure:hover figcaption {
+    bottom: 5%;
+    transition: bottom 0.4s, opacity 0.3s;
+}
+
+
+
+/* - - - Category list styling - - - */
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+    color: black;
+    background-color: #DADADA;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    color: grey;
+    transition: background-color 0.8s;
+
+}
+.nav>li>a:hover {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+
+}

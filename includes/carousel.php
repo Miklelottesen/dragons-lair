@@ -8,8 +8,8 @@
             <section class="carousel-caption">
 
                     <h1> Hello, traveller!! </h1>
-                    <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. </p>
-                    <p> <a class="btn btn-primary btn-large" href="#">Learn more</a></p>
+                    <h2>Welcome to DL community Hub! Don't forget to swallow! </h2>
+                    <p> <a class="btn-more pull-right" href="#">GIMME MORRRRRRRRE</a></p>
 
             </section>
             <!-- Seeing if we should use few slider pictures
