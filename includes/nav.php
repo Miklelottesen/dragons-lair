@@ -33,7 +33,7 @@
             </ul>
           </li>
           <li><a class="nav-link" <?php setActive('gallery') ?> href="./?page_id=gallery">Gallery</a></li>
-          <li><a class="nav-link" <?php setActive('articles') ?> href="./?page_id=articles">Articles</a></li>
+          <li><a class="nav-link" <?php setActive('guides') ?> href="./?page_id=guides">Guides</a></li>
           <li><a class="nav-link" <?php setActive('rankings') ?> href="./?page_id=rankings">Rankings</a></li>
         </ul>
       </section>
