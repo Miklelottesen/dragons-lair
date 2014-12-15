@@ -1,5 +1,5 @@
 
-<div class="container">
+<section class="container">
     <!-- visible Sort-By option -->
     <hr>
         <section class="row">
@@ -15,8 +15,8 @@
             </section>
         </section>
         <hr>
-    <div class="row clearfix">
-        <div class="col-md-12 column">
+    <section class="row clearfix">
+        <section class="col-md-12 column">
             <table class="table">
                 <thead>
                 <tr>
@@ -121,13 +121,13 @@
                 </tr>
                 </tbody>
             </table>
-        </div>
+        </section>
 
 
 
-        <div class="container">
-            <div class="row clearfix">
-                <div class="col-md-12 column">
+        <section class="container">
+            <section class="row clearfix">
+                <section class="col-md-12 column">
                     <ul class="pagination pagination-lg">
                         <li>
                             <a href="#">Prev</a>
@@ -151,13 +151,13 @@
                             <a href="#">Next</a>
                         </li>
                     </ul>
-                </div>
-            </div>
-        </div>
+                </section>
+            </section>
+        </section>
 
 
 
 
 
-    </div>
-</div>
+    </section>
+</section>

@@ -1,6 +1,6 @@
-<div class="container">
-    <div class="row clearfix">
-        <div class="col-md-8 column">
+<section class="container">
+    <section class="row clearfix">
+        <section class="col-md-8 column">
             <h1>Denmark Shocks the world of Magic</h1>
             <small>Card Games 04/20/2014</small>
             <hr>
@@ -14,8 +14,8 @@
             <h4>One in a million</h4>
             <p> Birch went on to say that the three lucky cards were a ”one in a million” and that no one had expected Denmark to win the tournament. They had hoped to finish in the top 32 out of the 72-nation competed, but they won the final by overcoming Team Greece in a nail-biting climax, thanks to some Danish luck in the final turns.
             </p>
-        </div>
-        <div class="col-md-4 column">asd
-        </div>
-    </div>
-</div>
+        </section>
+        <section class="col-md-4 column">asd
+        </section>
+    </section>
+</section>

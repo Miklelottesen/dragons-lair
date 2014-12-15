@@ -17,14 +17,14 @@
     <hr>
 
     <!-- Event row -->
-    <div class="row clearfix greybg">
+    <section class="row clearfix greybg">
 
 
-        <div class="col-md-6 column">
+        <section class="col-md-6 column">
             <img class="img-responsive" alt="Hardball Event Odense" src="./img/events/hardball-odense.jpg" />
-        </div>
+        </section>
 
-        <div class="col-md-6 column">
+        <section class="col-md-6 column">
                 <h3> Hardball event 3000 Odense </h3>
                 <p>LARP | 200 DKK | 04/20/2014 | 20:00 | Aarhus </p>
             <p>This would be Task Force Scorpion's first skirmish. The date is not final nor the time.MTAC stands alone with an impressive new 15,000 sq ft. indoor arena and a two-acre outdoor arena.</p>
@@ -36,28 +36,28 @@
                     <a href="#" data-toggle="dropdown" class="btn btn-large dropdown-toggle">Join Event<strong class="caret"></strong></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">By Facebook</a></li>
-                        <li class="divider"></li>
+                        <li class="sectionider"></li>
                         <li> <a href="#">By E-Mail</a></li>
                     </ul>
                 </li>
             </ul>
-         </div>
+         </section>
 
-    </div>
+    </section>
 
 
 <hr>
 
 
     <!-- Event row -->
-    <div class="row clearfix greybg">
+    <section class="row clearfix greybg">
 
 
-        <div class="col-md-6 column">
+        <section class="col-md-6 column">
             <img class="img-responsive" alt="Hardball Event Odense" src="./img/events/hardball-odense.jpg" />
-        </div>
+        </section>
 
-        <div class="col-md-6 column">
+        <section class="col-md-6 column">
             <h3> Hardball event 3000 Odense </h3>
             <p>LARP | 200 DKK | 04/20/2014 | 20:00 | Aarhus </p>
             <p>This would be Task Force Scorpion's first skirmish. The date is not final nor the time.MTAC stands alone with an impressive new 15,000 sq ft. indoor arena and a two-acre outdoor arena.</p>
@@ -69,26 +69,26 @@
                     <a href="#" data-toggle="dropdown" class="btn btn-large dropdown-toggle">Join Event<strong class="caret"></strong></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">By Facebook</a></li>
-                        <li class="divider"></li>
+                        <li class="sectionider"></li>
                         <li> <a href="#">By E-Mail</a></li>
                     </ul>
                 </li>
             </ul>
-        </div>
+        </section>
 
-    </div>
+    </section>
 
 <hr>
 
     <!-- Event row -->
-    <div class="row clearfix greybg">
+    <section class="row clearfix greybg">
 
 
-        <div class="col-md-6 column">
+        <section class="col-md-6 column">
             <img class="img-responsive" alt="Hardball Event Odense" src="./img/events/hardball-odense.jpg" />
-        </div>
+        </section>
 
-        <div class="col-md-6 column">
+        <section class="col-md-6 column">
             <h3> Hardball event 3000 Odense </h3>
             <p>LARP | 200 DKK | 04/20/2014 | 20:00 | Aarhus </p>
             <p>This would be Task Force Scorpion's first skirmish. The date is not final nor the time.MTAC stands alone with an impressive new 15,000 sq ft. indoor arena and a two-acre outdoor arena.</p>
@@ -100,14 +100,14 @@
                     <a href="#" data-toggle="dropdown" class="btn btn-large dropdown-toggle">Join Event<strong class="caret"></strong></a>
                     <ul class="dropdown-menu">
                         <li><a href="#">By Facebook</a></li>
-                        <li class="divider"></li>
+                        <li class="sectionider"></li>
                         <li> <a href="#">By E-Mail</a></li>
                     </ul>
                 </li>
             </ul>
-        </div>
+        </section>
 
-    </div>
+    </section>
 
  </aside>
 
