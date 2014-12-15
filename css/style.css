@@ -142,7 +142,9 @@ nav a.nav-link:hover {
     background-color: #1b1b1b !important;
 }
 
-
+.dropdown li a{
+    color: black !important;
+}
 
 
 /*******
