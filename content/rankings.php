@@ -40,7 +40,7 @@
                         1
                     </td>
                     <td>
-                        John McFapson
+                        John Madsen
                     </td>
                     <td>
                       132/5
@@ -54,7 +54,7 @@
                         2
                     </td>
                     <td>
-                        Mike Hunt
+                        Michael Hunt
                     </td>
                     <td>
                        120/9
@@ -68,7 +68,7 @@
                         3
                     </td>
                     <td>
-                        McLovin
+                        Ethan McDovin
                     </td>
                     <td>
                         120/50
@@ -82,7 +82,7 @@
                         4
                     </td>
                     <td>
-                        P. "Stroker" Ennis
+                        P. "Striker" Dennis
                     </td>
                     <td>
                         130/90
@@ -96,7 +96,7 @@
                         5
                     </td>
                     <td>
-                       Jolly Mangina
+                       Dolly Regina
                     </td>
                     <td>
                         420/320
@@ -110,7 +110,7 @@
                         6
                     </td>
                     <td>
-                       Wang Liqa
+                       Juan Eliquo
                     </td>
                     <td>
                         40/420
