@@ -21,7 +21,7 @@
           <li><a class="nav-link" <?php setActive('home') ?> href="./">Home</a></li>
           <li><a class="nav-link" <?php setActive('news') ?> href="./?page_id=news">News</a></li>
           <li class="dropdown">
-            <a  class="nav-link dropdown-toggle" href="./?page_id=events" data-toggle="dropdown" role="button" area-expanded="false">Events</a>
+            <a  class="nav-link dropdown-toggle" href="./?page_id=events" data-toggle="dropdown" role="button" aria-expanded="false">Events</a>
             <ul class="sub-menu dropdown-menu" role="menu">
               <li><a <?php setActive('events-board') ?> href="./?page_id=events">Board Games</a></li>
               <li><a <?php setActive('events-cards') ?> href="./?page_id=events">Card Games</a></li>

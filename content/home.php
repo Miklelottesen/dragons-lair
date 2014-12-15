@@ -8,7 +8,7 @@
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>
-          <p>Weekly D&D event at Dragons Lair</p>
+          <p>Weekly D&amp;D event at Dragons Lair</p>
           <p>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
@@ -21,7 +21,7 @@
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>
-          <p>Weekly D&D event at Dragons Lair</p>
+          <p>Weekly D&amp;D event at Dragons Lair</p>
           <p>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
@@ -34,7 +34,7 @@
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>
-          <p>Weekly D&D event at Dragons Lair</p>
+          <p>Weekly D&amp;D event at Dragons Lair</p>
           <p>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
@@ -47,7 +47,7 @@
         </td>
         <td>
           <h3>Dungeons and Dragons Evening</h3>
-          <p>Weekly D&D event at Dragons Lair</p>
+          <p>Weekly D&amp;D event at Dragons Lair</p>
           <p>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
@@ -57,7 +57,7 @@
 </section>
 <section class="col-sm-12 col-md-6">
     <h2>Featured</h2>
-    <img id="featured-image" src="https://36.media.tumblr.com/0a4be6039f37db4e0f1ec6c097c8993c/tumblr_mipvn07eWE1qzfsnio1_500.jpg" />
+    <img id="featured-image" alt="Image of custom armor" src="https://36.media.tumblr.com/0a4be6039f37db4e0f1ec6c097c8993c/tumblr_mipvn07eWE1qzfsnio1_500.jpg" />
     <h3>How to make fantasy armour</h3>
     <small>August 26, <a href="#">Tutorials</a></small>
     <p>How to make fantasy armour if you're looking for the shortest path route to making armour, then the very first thing you should do is grab a copy of this fantastic book by Brian Price, I highly recommend it:</p>

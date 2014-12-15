@@ -40,7 +40,7 @@
 			</section>
 		</section>
 	</main>
-	<script src="js/fixMenu.js"></script>
+	<script src="js/fixmenu.js"></script>
 		<!-- Script to enable hover-dropdown -->
 
 	<?php 
