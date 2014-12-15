@@ -6,11 +6,9 @@
         <section class="item active">
             <img src="./img/slider_1.png" alt="First slider picture">
             <section class="carousel-caption">
-
-                    <h1> Hello, traveller!! </h1>
-                    <h2>Welcome to DL community Hub! Don't forget to swallow! </h2>
-                    <p> <a class="btn-more pull-right" href="#">GIMME MORRRRRRRRE</a></p>
-
+                    <h3> HELLO, TRAVELLER </h3>
+                    <p class="middle">Don't forget to check out our guides and tutorials!</p>
+                    <a class="btn-more pull-right" href="#">Latest guides</a>
             </section>
         </section>
     </section>

@@ -10,6 +10,15 @@ main {
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+#carousel-generic p {
+	text-align: center;
+}
+
+#carousel-generic h3 {
+	font-size: 40px;
+}
+
 small a {
 	color: #666;
 	text-decoration: underline;
