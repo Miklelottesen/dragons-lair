@@ -110,3 +110,10 @@ td h3 {
 	top:1px;
 }
 
+footer .container-fluid{
+	width: 100%;
+	background-color: #121212 !important;
+}
+.container-fluid {
+	background-color: black !important;
+}

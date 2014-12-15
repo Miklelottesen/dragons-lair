@@ -32,7 +32,7 @@
 			}	// Load custom CSS for rankings page
 
 	?>
-	<link rel="shortcut icon" href="/favicons/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="./favicons/favicon.ico" type="image/x-icon" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<script src="js/jquery-2.1.1.min.js"></script><!-- jQuery -->
 	<script src="js/bootstrap.min.js"></script><!-- Bootstrap js file -->
