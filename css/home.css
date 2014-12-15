@@ -10,7 +10,7 @@ main {
 	-o-background-size: cover;
 	background-size: cover;
 }
-a {
+small a {
 	color: #666;
 	text-decoration: underline;
 }
