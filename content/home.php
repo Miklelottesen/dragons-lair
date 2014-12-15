@@ -9,7 +9,7 @@
         <td>
           <h3>Dungeons and Dragons Evening</h3>
           <p>Weekly D&amp;D event at Dragons Lair</p>
-          <p>Superstreet 64, 8200 Aarhus</p>
+          <p><i class="glyphicon glyphicon-map-marker"></i>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
       </tr>
@@ -22,7 +22,7 @@
         <td>
           <h3>Dungeons and Dragons Evening</h3>
           <p>Weekly D&amp;D event at Dragons Lair</p>
-          <p>Superstreet 64, 8200 Aarhus</p>
+          <p><i class="glyphicon glyphicon-map-marker"></i>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
       </tr>
@@ -35,7 +35,7 @@
         <td>
           <h3>Dungeons and Dragons Evening</h3>
           <p>Weekly D&amp;D event at Dragons Lair</p>
-          <p>Superstreet 64, 8200 Aarhus</p>
+          <p><i class="glyphicon glyphicon-map-marker"></i>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
       </tr>
@@ -48,7 +48,7 @@
         <td>
           <h3>Dungeons and Dragons Evening</h3>
           <p>Weekly D&amp;D event at Dragons Lair</p>
-          <p>Superstreet 64, 8200 Aarhus</p>
+          <p><i class="glyphicon glyphicon-map-marker"></i>Superstreet 64, 8200 Aarhus</p>
           <p>Monday 20 April @ 20:00</p>
         </td>
       </tr>
@@ -57,10 +57,10 @@
 </section>
 <section class="col-sm-12 col-md-6">
     <h2>Featured</h2>
-    <img id="featured-image" alt="Image of custom armor" src="https://36.media.tumblr.com/0a4be6039f37db4e0f1ec6c097c8993c/tumblr_mipvn07eWE1qzfsnio1_500.jpg" />
-    <h3>How to make fantasy armour</h3>
-    <small>August 26, <a href="#">Tutorials</a></small>
-    <p>How to make fantasy armour if you're looking for the shortest path route to making armour, then the very first thing you should do is grab a copy of this fantastic book by Brian Price, I highly recommend it:</p>
+    <img id="featured-image" class="img-responsive" alt="The Danish Magic champions" src="./img/news/den.jpg" />
+    <h3>Denmark Shocks the world of Magic</h3>
+    <small>Card Games 04/20/2014</small>
+    <p>This weekend the 2014 World Magic Cup concluded with an epic victory by underdog Denmark over Greece. The Danish Magic team shocked the world of Magic with their win..</p>
     <table>
       <tr>
         <td>

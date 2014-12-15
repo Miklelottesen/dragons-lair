@@ -23,11 +23,7 @@ small a {
 	color: #666;
 	text-decoration: underline;
 }
-#featured-image {
-	max-height: 200px;
-	width: 100%;
-	height: auto;
-}
+
 
 #part-one {
 	padding: 5px 10px 15px 10px;
