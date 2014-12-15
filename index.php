@@ -1,7 +1,9 @@
 <?php 
+	// Global variables:
 	global $page_id;
 	global $page_url;
 
+	// Function to add .active class to active navbar link:
 	function setActive( $this_id){
 		global $page_id;
 		global $page_url;
@@ -10,21 +12,22 @@
 		}
 	}
 
+	// Set page_id from get, defaults to 'home':
 	if ( isset( $_GET['page_id'])){
 		$page_id = $_GET['page_id'];
 	} else {
 		$page_id = 'home';
-	} // Set page_id from get, defaults to 'home'
+	} 
 
+	// Construct URL of the content file to get:
 	$page_url = 'content/'.$page_id.'.php';
-		// Construct URL of the content file to get
+		
+	// Get the header:
 	include 'includes/header.php';
-	// Get the header
 
-
+	// Inlclude Bootstrap carousel on Home (which has no page_id):
 	if ( empty( $_GET )){
 		include './includes/carousel.php';
-	// Display Bootstrap Carousel on any other page than Home or Post view (which has no page_id)
 	}
 ?>
 	<main class="container-fluid">
@@ -38,9 +41,10 @@
 		</section>
 	</main>
 	<script src="js/fixMenu.js"></script>
+		<!-- Script to enable hover-dropdown -->
 
 	<?php 
+		// Get the footer:
 		include 'includes/footer.php'; 
-			// Get the footer
 	?>
 	
