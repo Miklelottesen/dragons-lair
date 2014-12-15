@@ -10,7 +10,10 @@ main {
 	-o-background-size: cover;
 	background-size: cover;
 }
-
+a {
+	color: #666;
+	text-decoration: underline;
+}
 #featured-image {
 	max-height: 200px;
 	width: 100%;

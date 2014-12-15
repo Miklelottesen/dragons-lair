@@ -144,6 +144,7 @@ nav a.nav-link:hover {
 
 .dropdown li a{
     color: black !important;
+    font-family: Roboto;
 }
 
 
@@ -170,6 +171,7 @@ main h2 {
 /******
 Footer:
 ******/
-footer {
+footer .container-fluid{
 	width: 100%;
+    background-color: #121212;
 }

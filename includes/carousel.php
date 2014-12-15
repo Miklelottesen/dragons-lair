@@ -1,10 +1,5 @@
 <section id="carousel-generic" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-generic" data-slide-to="2"></li>
-    </ol>
+
 
     <!-- Wrapper for slides -->
     <section class="carousel-inner">
@@ -32,7 +27,7 @@
                 </section>
             </section> -->
         </section>
-
+    </section>
         <!-- Controls -->
         <!--  <a class="left carousel-control" href="#carousel-generic" role="button" data-slide="prev">
              <span class="glyphicon glyphicon-chevron-left"></span>
