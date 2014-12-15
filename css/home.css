@@ -19,7 +19,7 @@ main {
 
 #part-one {
 	padding: 5px 10px 15px 10px;
-display: inline-block; /* necessary to show background color */
+	display: inline-block; /* necessary to show background color */
 	background: url(../img/transparent-bg-content.png); /* Background for the content itself */
 
 }
@@ -105,4 +105,8 @@ td h3 {
 .btn-more:active {
 	position:relative;
 	top:1px;
+}
+
+.dropdown li a{
+	color: black !important;
 }
